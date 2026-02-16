@@ -7,7 +7,7 @@
 Este projeto consiste no desenvolvimento de um bot de **Web Scraping** utilizando Python. O objetivo principal é automatizar o monitoramento de preços no Mercado Livre, simulando um navegador para extrair informações competitivas sem a necessidade de trabalho manual.
 
 ## 2. Tecnologias Utilizadas 🛠️
-Para a construção desta ferramenta, foi escolhida a linguagem * **Python:** para o desenolvimento do projeto. Também foram utilizadas as bibliotecas: * **Requests:**, * **BeautifulSoup (bs4)**, * **Pandas**.
+Para a construção desta ferramenta, foi escolhida a linguagem  **Python:** para o desenolvimento do projeto. Também foram utilizadas as bibliotecas: **Requests:**, **BeautifulSoup (bs4)**,  **Pandas**.
 
 ## 3. Funcionalidades Técnicas
 O script executa os seguintes passos lógicos:
